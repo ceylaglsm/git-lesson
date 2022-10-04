@@ -1,0 +1,18 @@
+package j10_StringManipulations.tasks;
+
+public class _04_String_methods01 {
+
+    public static void main(String[] args) {
+
+        /*  I love java olan bir String oluşturun.
+            Bu cümlenin toplam karakter sayısını yazdırın.   */
+
+        //Kodu aşağıya yazınız.
+
+
+        int a = 2;
+        int b = 7;
+        double son = b/a;
+        System.out.println(son);
+    }
+}
